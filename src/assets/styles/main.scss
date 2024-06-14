@@ -1,0 +1,22 @@
+// root
+@import "./root.scss";
+// root
+
+// common styles
+@import "./common.scss";
+@import "./fonts.scss";
+// common styles
+
+// Layouts styles
+@import "../../layouts/headerLayouts/headerLayouts.scss";
+@import "../../layouts/footerLayouts/footerLayouts.scss";
+// Layouts styles
+
+// components styles
+@import "../../components//navbar/navbar.scss";
+// components styles
+
+// Views styles
+@import "../../views/headerView/headerView.scss";
+@import "../../views/aboutView/aboutView.scss";
+// Views styles
